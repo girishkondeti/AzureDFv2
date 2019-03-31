@@ -1,0 +1,9 @@
+{
+	"name": "AzureKeyVault1",
+	"properties": {
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "DefaultEndpointsProtocol=https;AccountName=gkazureflatfiles;AccountKey=HUHkH0bQ6nL6b3hhTL1b/Dpx60ov0Wl39pwLubizhTGBW2lvpNTogTedhAszLrDQnH5XVU5xBplENMRDGRintQ==;EndpointSuffix=core.windows.net"
+		}
+	}
+}
